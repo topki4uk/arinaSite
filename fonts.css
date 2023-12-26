@@ -11,9 +11,7 @@ header {
 }
 
 .style-title {
-    position: relative;
-    top: -15%;
-    margin-bottom: 0.2%;
+    text-align: center;
 }
 
 .back {
@@ -49,7 +47,6 @@ a:hover {
 .hight-bar{
     width: 85%;
     padding: 2px;
-    text-align: center;
     font-size: 1.4rem;
     border-radius: 10px;
     background-color: rgb(255, 166, 0);
